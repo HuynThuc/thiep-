@@ -151,7 +151,7 @@ html, body {
     transform: translateZ(-2px) translateY(50px);
   }
   .present-box > .side.top .to:after {
-    content: "Chúc mừng ngày 8-3 ❤";
+    content: "Happy Anniversary ❤";
     display: inline-block;
     transform: rotateY(180deg);
     color: #990000;
