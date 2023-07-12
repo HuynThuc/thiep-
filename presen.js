@@ -1,7 +1,7 @@
 
-var to = 'Bé Thanh Hương';
-var gift_url = 'https://www.facebook.com/profile.php?id=100033693242351';
-var gift_image_url = 'thạnipmg.png';
+var to = 'Bé Hồng Nga';
+var gift_url = 'https://www.facebook.com/Hngaaa03';
+var gift_image_url = 'anhThuc';
 
 
 
