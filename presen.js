@@ -1,7 +1,7 @@
 
 var to = 'Bé Hồng Nga';
 var gift_url = 'https://www.facebook.com/Hngaaa03';
-var gift_image_url = 'anhNga';
+var gift_image_url = 'anhThuc.jpg';
 
 
 
